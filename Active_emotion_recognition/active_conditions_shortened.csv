@@ -1,0 +1,3 @@
+"movie_path","emotion",gender,correct_response
+"./amsterdam_dynamic_facial_expression_set/F01-Anger-Face Forward.mp4","Anger",female,1
+"./amsterdam_dynamic_facial_expression_set/F01-Disgust-Face Forward.mp4","Disgust",female,3

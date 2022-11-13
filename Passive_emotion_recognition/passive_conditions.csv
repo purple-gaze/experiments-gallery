@@ -1,0 +1,8 @@
+"emotional","neutral",emotional_emotion,gender
+"./stims/amsterdam_still_facial_expression_set/F01-Anger-Apex.jpg","./stims/amsterdam_still_facial_expression_set/F01-Neutral.jpg","""anger""","""female"""
+"./stims/amsterdam_still_facial_expression_set/F02-Fear-Apex.jpg","./stims/amsterdam_still_facial_expression_set/F02-Neutral.jpg","""fear""","""female"""
+"./stims/amsterdam_still_facial_expression_set/F03-Joy-Apex.jpg","./stims/amsterdam_still_facial_expression_set/F03-Neutral.jpg","""joy""","""female"""
+"./stims/amsterdam_still_facial_expression_set/M02-Fear-Apex.jpg","./stims/amsterdam_still_facial_expression_set/M02-Neutral.jpg","""fear""","""male"""
+"./stims/amsterdam_still_facial_expression_set/M03-Disgust-Apex.jpg","./stims/amsterdam_still_facial_expression_set/M03-Neutral.jpg","""disgust""","""male"""
+"./stims/amsterdam_still_facial_expression_set/M04-Surprise-Apex.jpg","./stims/amsterdam_still_facial_expression_set/M04-Neutral.jpg","""surprise""","""male"""
+"./stims/amsterdam_still_facial_expression_set/M06-Sad-Apex.jpg","./stims/amsterdam_still_facial_expression_set/M06-Neutral.jpg","""sad""","""male"""

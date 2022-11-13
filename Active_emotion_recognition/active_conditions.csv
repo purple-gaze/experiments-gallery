@@ -1,0 +1,13 @@
+"movie_path","emotion",stim_gender,correct_response
+"./amsterdam_dynamic_facial_expression_set/F01-Anger-Face Forward.mp4","Anger",female,1
+"./amsterdam_dynamic_facial_expression_set/F01-Disgust-Face Forward.mp4","Disgust",female,3
+"./amsterdam_dynamic_facial_expression_set/F01-Fear-Face Forward.mp4","Fear",female,2
+"./amsterdam_dynamic_facial_expression_set/F01-Joy-Face Forward.mp4","Joy",female,4
+"./amsterdam_dynamic_facial_expression_set/F01-Sadness-Face Forward.mp4","Sadness",female,5
+"./amsterdam_dynamic_facial_expression_set/F01-Surprise-Face Forward.mp4","Suprise",female,6
+"./amsterdam_dynamic_facial_expression_set/M12-Anger-Face Forward.mp4","Anger",male,1
+"./amsterdam_dynamic_facial_expression_set/M12-Disgust-Face Forward.mp4","Disgust",male,3
+"./amsterdam_dynamic_facial_expression_set/M12-Fear-Face Forward.mp4","Fear",male,2
+"./amsterdam_dynamic_facial_expression_set/M12-Joy-Face Forward.mp4","Joy",male,4
+"./amsterdam_dynamic_facial_expression_set/M12-Sadness-Face Forward.mp4","Sadness",male,5
+"./amsterdam_dynamic_facial_expression_set/M12-Surprise-Face Forward.mp4","Suprise",male,6

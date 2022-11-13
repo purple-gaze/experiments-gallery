@@ -1,0 +1,3 @@
+"movie_path","emotion",stim_gender,correct_response
+"./amsterdam_dynamic_facial_expression_set/F03-Fear-Face Forward.mp4","Fear",female,2
+"./amsterdam_dynamic_facial_expression_set/M02-Surprise-Face Forward.mp4","Suprise",male,6
