@@ -1,6 +1,6 @@
 # Purple Gaze Experiments Gallery
 
-This repository includes examples on how to integrate the [Purple Gaze](https://purplegaze.io/) python module for eye-tracking recording to various experiments programmed using the python library psychopy. The experiments in this repository are replicates of previously published experiments.
+This repository includes examples on how to integrate the [Purple Gaze](https://purplegaze.io/) python module for eye-tracking recording to various experiments programmed using the python library PsychoPy. The experiments in this repository are replicates of previously published experiments.
 
 To run without eye-tracking device run first:
 
