@@ -1,4 +1,4 @@
-# Purple Gaze Example Experiments
+# Purple Gaze Experiments Gallery
 
 This repository includes examples on how to integrate the [Purple Gaze](https://purplegaze.io/) python module for eye-tracking recording to various experiments programmed using the python library psychopy. The experiments in this repository are replicates of previously published experiments.
 
@@ -12,9 +12,9 @@ To run without eye-tracking device run first:
 - `psychopy >= 2020.1.2`
 
 ---------
-# Experiments on this repository
+# Experiments in this repository
 
-- Antisaccade
+- Anti-Saccade
 - Content pictures
 - Facial emotion recognition
   - Active experiment (with videos)
@@ -24,7 +24,7 @@ To run without eye-tracking device run first:
 
 All experiments have a README file of their own to look into more deeply.
 
-## Antisaccade
+## Anti-Saccade
 
 In the Anti-Saccade task, the participant begins each trial by looking at a fixation cross. A cue appears that hints to the participant where the stimulus is going to appear. Then, a stimulus appears on the side of the screen. The stimulus is either a green or a red circle. When the green circle appears, the participant should make an eye movement toward the green circle (”Pro-Saccade”). But when the red circle appears, the participant must look to the other side of the screen, inhibiting the saccade reflex (”Anti-Saccade”). Failures in such inhibition are related to neurological disorders at the level of the frontal cortex (Wilcockson et al., 2019). 
 
