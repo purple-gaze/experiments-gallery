@@ -1,6 +1,6 @@
-# Anti-saccade Experiment
+# Anti-Saccade Experiment
 
-In the anti-saccade task, the participant begins each trial by looking at a fixation cross. Then, a stimulus appears on the side of the screen. When this happens, the participant must look to the other side of the screen, inhibiting the saccade reflex. Failures in such inhibition are related to neurological disorders at the level of the frontal cortex.
+In the Anti-Saccade task, the participant begins each trial by looking at a fixation cross. Then, a stimulus appears on the side of the screen. When this happens, the participant must look to the other side of the screen, inhibiting the saccade reflex. Failures in such inhibition are related to neurological disorders at the level of the frontal cortex.
 
 ![alt text](./Fig.1-AntiSaccade.jpg)
 
